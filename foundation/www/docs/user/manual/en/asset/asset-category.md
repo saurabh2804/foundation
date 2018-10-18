@@ -7,3 +7,4 @@ In Asset Category, you can set default depreciation method, periodicity and depr
 <img class="screenshot" alt="Asset Category" src="{{docs_base_url}}/assets/img/asset/asset-category.png">
 
 > **Note:** You can also set default depreciation related Accounts and Cost Centers in Company master.
+Next: [Asset](https://erpnext.org/docs/user/manual/en/asset/asset)
